@@ -4,6 +4,7 @@ import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Card, CardMedia } from "@mui/material";
+
 function ResumeNew() {
 	const [width, setWidth] = useState(1200);
 

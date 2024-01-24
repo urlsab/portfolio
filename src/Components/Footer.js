@@ -50,7 +50,7 @@ function Footer() {
                 <FaStackOverflow />
               </a>
             </li>
-            
+            {/* hi */}
           </ul>
         </Col>
       </Row>

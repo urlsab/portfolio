@@ -31,8 +31,8 @@ function Projects() {
 							title="COLOR GAME"
 							description="A smart and nice game with a original extra challange"
 							techstack=" HTML | CSS | JS "
-							link="https://color-game-tawny.vercel.app"
-							git="https://github.com/urlsab/Color-game"
+							link="https://color-game-react.vercel.app/"
+							git="https://github.com/urlsab/color-game-react"
 						/>
 					</Col>
 

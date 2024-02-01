@@ -2,14 +2,6 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-import logo from "../Assets/logo.png";
-
-
-import { GiInvertedDice4 } from "react-icons/gi";
-import { IoReorderFour } from "react-icons/io5";
-import { GiDiceSixFacesSix } from "react-icons/gi";
-
-
 
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
@@ -47,9 +39,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/">
-        <IoReorderFour />
-        <GiDiceSixFacesSix />
-          {/* <img src={logo} className="img-fluid logo" alt="brand" /> */}
+          <spna style={{color:'#0586ae', fontSize:'30px', backgroundColor:'white', borderRadius:'20%'}}>US</spna>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

@@ -6,11 +6,6 @@ import yelpCamp from "../../Assets/Projects/yelpCamp.png";
 import cvBuilder from "../../Assets/Projects/cvBuilder.png";
 import colorGame from "../../Assets/Projects/colorGame.png";
 
-
-// set color game app at git hub desktop = 20 min
-
-// color game code as react app + our combo twist = 120 min
-
 function Projects() {
 	return (
 		<Container fluid className="project-section">
@@ -42,7 +37,7 @@ function Projects() {
 							isBlog={false}
 							title="YELP CAMP PROJECT"
 							description="A full CRUD project of social media group of camping"
-							techstack="HTML | CSS | JS | Mongodb"
+							techstack="NODEJS | EJS | MONGODB"
 							link="https://yelp--camp--project.herokuapp.com"
 							git="https://github.com/urlsab/YelpCamp-project"
 						/>
@@ -54,7 +49,7 @@ function Projects() {
 							isBlog={false}
 							title="CV BUILDER APP"
 							description="A resume builder app with built in PDF & print functions"
-							techstack="HTML | CSS | JS  | REACT"
+							techstack="REACT | FIRESTORE | AUTHENTICATION"
 							link="https://resumes-builder.web.app"
 							git="https://github.com/urlsab/cv-app-master"
 						/>

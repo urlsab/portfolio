@@ -29,7 +29,6 @@ function ResumeNew() {
 
 				<Row className="resume">
 					<Card sx={{ maxWidth: 650 }}>
-						{/* '/preview' allow to see the file + button for open on new tab */}
 						<CardMedia
 							className="cardmedia"
 							component="iframe"

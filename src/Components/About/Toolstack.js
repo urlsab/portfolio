@@ -4,11 +4,11 @@ import {
 	SiVisualstudiocode,
 	SiHeroku,
 	SiGithub,
+	SiFirebase, 
+	SiExpress
 } from "react-icons/si";
 
 import { FaBootstrap } from "react-icons/fa";
-import { SiFirebase } from "react-icons/si";
-import { SiExpress } from "react-icons/si";
 import { IoLogoVercel } from "react-icons/io5";
 
 function Toolstack() {

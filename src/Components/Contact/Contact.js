@@ -2,12 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {AiFillGithub} from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { FaStackOverflow } from "react-icons/fa";
 import PhoneIcon from "@mui/icons-material/Phone";
 import EmailIcon from "@mui/icons-material/Email";
 import PlaceIcon from "@mui/icons-material/Place";
-
-import { FaStackOverflow } from "react-icons/fa";
-
 
 function Contact() {
   return (

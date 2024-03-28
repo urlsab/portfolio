@@ -19,7 +19,7 @@ function ResumeNew() {
 				<Row style={{ justifyContent: "center", position: "relative" }}>
 					<Button
 						variant="primary"
-						href={"https://drive.google.com/file/d/1boRtNvOPYIsDeV-Jx8xE90u12Q6FgIus/preview"}
+						href={"https://drive.google.com/file/d/1bgpi0oBNt7eX9baS_Zsy-FKYfrKX8Uc9/preview"}
 						target="_blank"
 					>
 						<AiOutlineDownload />
@@ -33,7 +33,7 @@ function ResumeNew() {
 							className="cardmedia"
 							component="iframe"
 							Height="880px"
-							src="https://drive.google.com/file/d/1boRtNvOPYIsDeV-Jx8xE90u12Q6FgIus/preview"
+							src="https://drive.google.com/file/d/1bgpi0oBNt7eX9baS_Zsy-FKYfrKX8Uc9/preview"
 						/>
 					</Card>
 				</Row>
@@ -41,7 +41,7 @@ function ResumeNew() {
 				<Row style={{ justifyContent: "center", position: "relative" }}>
 					<Button
 						variant="primary"
-						href={"https://drive.google.com/file/d/1boRtNvOPYIsDeV-Jx8xE90u12Q6FgIus/preview"}
+						href={"https://drive.google.com/file/d/1bgpi0oBNt7eX9baS_Zsy-FKYfrKX8Uc9/preview"}
 						target="_blank"
 					>
 						<AiOutlineDownload />

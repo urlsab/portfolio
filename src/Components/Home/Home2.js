@@ -65,6 +65,7 @@ function Home2() {
                   sx={{ fontSize: 45 }}
                 />
                 <a href="tel:+972556611594" className="con-det">
+                  {/* +972 instead of 0 */}
                 +972 556 611 594
                 </a>
               </div>

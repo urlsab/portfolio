@@ -7,4 +7,26 @@
 
 </h2>
 
+<hr />
+
+<h2 align="center">📞 <ins>CONTACT</ins> 📧
+
+<br />
+<br />
+
+   <a align="center" href="mailto:yairsabag213@gmail.com">
+      <img align="center"  src="https://skillicons.dev/icons?i=gmail"/>
+ </a>
+  
+  <a href="https://linkedin.com/in/uriel-sabag">
+     <img align="center"  src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+
+  <br />
+  <br />
+  
+</h2>
+
+<hr />
+
 <h2 align="center">👍 LIKE IT ? GIVE ME A 🌟</h2>

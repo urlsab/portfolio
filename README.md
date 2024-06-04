@@ -29,4 +29,4 @@
 
 <hr />
 
-<h2 align="center">👍 LIKE IT ? GIVE ME A 🌟</h2>
+<h2 align="center">👍 LIKE IT ? GIVE ME A ⭐</h2>

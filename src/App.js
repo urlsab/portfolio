@@ -33,10 +33,10 @@ const App = () => {
         <ScrollToTop />
         <Routes>
           <Route path="/" exact element={<Home/>} />
-          <Route path="/project" element={<Projects/>} />
-          <Route path="/about" element={<About />} />
-          <Route path="/resume" element={<Resume />} />
-          <Route path="/contact" element={<Contact />} />
+          <Route path="/project" exact element={<Projects/>} />
+          <Route path="/about" exact element={<About />} />
+          <Route path="/resume" exact element={<Resume />} />
+          <Route path="/contact" exact element={<Contact />} />
         </Routes>
         <Footer />
       </div>

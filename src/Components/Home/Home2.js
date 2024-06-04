@@ -9,7 +9,7 @@ import PhoneIcon from "@mui/icons-material/Phone";
 import EmailIcon from "@mui/icons-material/Email";
 import PlaceIcon from "@mui/icons-material/Place";
 
-function Home2() {
+const Home2 = () => {
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>

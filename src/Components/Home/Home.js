@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 
-function Home() {
+const Home = () => {
   return (
     <section>
       <Container fluid className="home-section" id="home">

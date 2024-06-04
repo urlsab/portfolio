@@ -6,7 +6,7 @@ import yelpCamp from "../../Assets/Projects/yelpCamp.png";
 import cvBuilder from "../../Assets/Projects/cvBuilder.png";
 import colorGame from "../../Assets/Projects/colorGame.png";
 
-function Projects() {
+const Projects = () => {
 	return (
 		<Container fluid className="project-section">
 			<Particle />

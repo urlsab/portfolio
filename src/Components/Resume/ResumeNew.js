@@ -5,10 +5,11 @@ import Particle from "../Particle";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Card, CardMedia } from "@mui/material";
 
-function ResumeNew() {
+const ResumeNew = () => {
 	const [width, setWidth] = useState(1200);
 
 	useEffect(() => {
+		console.log(width);
 		setWidth(window.innerWidth);
 	}, []);
 

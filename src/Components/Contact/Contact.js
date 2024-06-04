@@ -7,7 +7,7 @@ import PhoneIcon from "@mui/icons-material/Phone";
 import EmailIcon from "@mui/icons-material/Email";
 import PlaceIcon from "@mui/icons-material/Place";
 
-function Contact() {
+const Contact = () => {
   return (
     <section>
       <Container fluid className="contact-section">

@@ -16,11 +16,11 @@ import {
 
 import { CgFileDocument } from "react-icons/cg";
 
-function NavBar() {
+const NavBar = () => {
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
 
-  function scrollHandler() {
+  const scrollHandler = () => {
     if (window.scrollY >= 20) {
       updateNavbar(true);
     } else {
@@ -39,7 +39,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/">
-          <spna style={{color:'#0586ae', fontSize:'30px', backgroundColor:'white', borderRadius:'20%'}}>US</spna>
+          <span style={{color:'#0586ae', fontSize:'30px', backgroundColor:'white', borderRadius:'20%'}}>US</span>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

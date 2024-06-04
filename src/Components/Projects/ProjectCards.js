@@ -3,7 +3,7 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import { FiExternalLink,FiGithub } from "react-icons/fi";
 
-function ProjectCards(props) {
+const ProjectCards = (props) => {
   return (
     <Card className="project-card-view">
       <div className="proImg">

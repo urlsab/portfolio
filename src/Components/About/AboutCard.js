@@ -4,7 +4,7 @@ import PianoIcon from '@mui/icons-material/Piano';
 import AutoStoriesIcon from "@mui/icons-material/AutoStories";
 import HistoryEduIcon from '@mui/icons-material/HistoryEdu';
 
-function AboutCard() {
+const AboutCard = () => {
   return (
     <Card className="quote-card-view">
       <Card.Body>

@@ -17,7 +17,6 @@ const App = () => {
   const [load, setLoad] = useState(true);
 
   useEffect(() => {
-    // for use load
     console.log(load);
     const timer = setTimeout(() => {
       setLoad(false);

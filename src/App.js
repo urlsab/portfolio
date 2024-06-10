@@ -14,21 +14,22 @@ import "./App.css";
 import Contact from "./Components/Contact/Contact";
 
 const App = () => {
-  const [load, setLoad] = useState(true);
+  // const [load, setLoad] = useState(true);
 
-  useEffect(() => {
-    console.log(load);
-    const timer = setTimeout(() => {
-      setLoad(false);
-    }, 1200);
+  // useEffect(() => {
+  //   console.log(load);
+  //   const timer = setTimeout(() => {
+  //     setLoad(false);
+  //   }, 1200);
 
-    return () => clearTimeout(timer);
-  }, []);
+  //   return () => clearTimeout(timer);
+  // }, []);
 
   return (
+    
     <React.Fragment>
-      <Preloader load={load} />
-      <div className="App" id={load ? "no-scroll" : "scroll"}>
+      {/* <Preloader load={load} /> */}
+      {/* <div className="App" id={load ? "no-scroll" : "scroll"}> */}
         <Navbar />
         <ScrollToTop />
         <Routes>
@@ -39,7 +40,7 @@ const App = () => {
           <Route path="/contact" exact element={<Contact />} />
         </Routes>
         <Footer />
-      </div>
+      {/* </div> */}
     </React.Fragment>
   );
 }

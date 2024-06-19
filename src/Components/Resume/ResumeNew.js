@@ -29,11 +29,11 @@ const ResumeNew = () => {
 				</Row>
 
 				<Row className="resume">
-					<Card sx={{ maxWidth: 650 }}>
+					<Card sx={{ maxWidth: 660 }}>
 						<CardMedia
 							className="cardmedia"
 							component="iframe"
-							Height="880px"
+							Height="890px"
 							src="https://drive.google.com/file/d/17BH6LbqBvfKht9mmtJQfEQIikwgoih0x/preview"
 						/>
 					</Card>

@@ -6,8 +6,8 @@ import { DiJsBadge,
 	DiCss3, 
 	DiHtml5 
 } from "react-icons/di";
-
-import { SiMongodb } from "react-icons/si";
+import { DiMongodb } from "react-icons/di";
+import { SiTypescript } from "react-icons/si";
 
 const Techstack = () => {
 	return (
@@ -25,6 +25,10 @@ const Techstack = () => {
 				<p>JavaScript</p>
 			</Col>
 			<Col xs={4} md={2} className="tech-icons">
+				<SiTypescript />
+				<p>TypeScript</p>
+			</Col>
+			<Col xs={4} md={2} className="tech-icons">
 				<DiNodejs />
 				<p>Node JS</p>
 			</Col>
@@ -33,7 +37,7 @@ const Techstack = () => {
 				<p>React</p>
 			</Col>
 			<Col xs={4} md={2} className="tech-icons">
-			<SiMongodb />
+				<DiMongodb />
 				<p>Mongodb</p>
 			</Col>
 		</Row>

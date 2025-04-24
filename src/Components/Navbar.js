@@ -12,6 +12,7 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser
 } from "react-icons/ai";
+import catLogo from "../Assets/CatLogo.png";
 
 import { CgFileDocument } from "react-icons/cg";
 
@@ -38,7 +39,8 @@ const NavBar = () => {
     >
       <Container>
         <Navbar.Brand href="/">
-          <span style={{color:'#0586ae', fontSize:'30px', backgroundColor:'white', borderRadius:'20%'}}>US</span>
+        <img width={70} style={{marginRight:'10px', borderRadius:'50%', border:'2px solid black' ,backgroundColor:'transparent'}} height={70} src={catLogo}></img>
+          {/* <span style={{color:'#0586ae', fontSize:'30px', backgroundColor:'white', borderRadius:'20%'}}>US</span> */}
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

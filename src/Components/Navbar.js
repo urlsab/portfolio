@@ -39,7 +39,7 @@ const NavBar = () => {
     >
       <Container>
         <Navbar.Brand href="/">
-        <img width={70} style={{marginRight:'10px', borderRadius:'50%', border:'2px solid black' ,backgroundColor:'transparent'}} height={70} src={catLogo}></img>
+        <img width={40} style={{borderRadius:'50%' ,backgroundColor:'transparent'}} height={40} src={catLogo}></img>
           {/* <span style={{color:'#0586ae', fontSize:'30px', backgroundColor:'white', borderRadius:'20%'}}>US</span> */}
         </Navbar.Brand>
         <Navbar.Toggle

@@ -20,7 +20,7 @@ const ResumeNew = () => {
 				<Row style={{ justifyContent: "center", position: "relative" }}>
 					<Button
 						variant="primary"
-						href={"https://drive.google.com/file/d/124-LHwAlTOO8kjNxzZwewsAz6g41DRdt/preview"}
+						href={"https://drive.google.com/file/d/1zo3EGpwYov0LcwAtszuFGAgkgsTewmzb/view?usp=preview"}
 						target="_blank"
 					>
 						<AiOutlineDownload />
@@ -34,7 +34,7 @@ const ResumeNew = () => {
 							className="cardmedia"
 							component="iframe"
 							Height="890px"
-							src="https://drive.google.com/file/d/124-LHwAlTOO8kjNxzZwewsAz6g41DRdt/preview"
+							src={"https://drive.google.com/file/d/1zo3EGpwYov0LcwAtszuFGAgkgsTewmzb/view?usp=preview"}
 						/>
 					</Card>
 				</Row>
@@ -42,7 +42,7 @@ const ResumeNew = () => {
 				<Row style={{ justifyContent: "center", position: "relative" }}>
 					<Button
 						variant="primary"
-						href={"https://drive.google.com/file/d/17BH6LbqBvfKht9mmtJQfEQIikwgoih0x/preview"}
+						href={"https://drive.google.com/file/d/1zo3EGpwYov0LcwAtszuFGAgkgsTewmzb/view?usp=preview"}
 						target="_blank"
 					>
 						<AiOutlineDownload />

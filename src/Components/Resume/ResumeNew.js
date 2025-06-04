@@ -36,7 +36,7 @@ const ResumeNew = () => {
 							className="cardmedia"
 							component="iframe"
 							Height="890px"
-							src={"https://drive.google.com/file/d/1zo3EGpwYov0LcwAtszuFGAgkgsTewmzb/view?usp=sharing"}
+							src={"https://drive.google.com/file/d/1zo3EGpwYov0LcwAtszuFGAgkgsTewmzb/view"}
 						/>
 					</Card>
 				</Row>

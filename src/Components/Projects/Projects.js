@@ -26,7 +26,7 @@ const Projects = () => {
 							title="COLOR GAME"
 							description="A smart and nice game with an original extra challenge"
 							techstack=" HTML | CSS | JS "
-							link="https://color-game-react.vercel.app/"
+							link="https://color-game-react.vercel.app"
 							git="https://github.com/urlsab/color-game-react"
 						/>
 					</Col>
